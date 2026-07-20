@@ -1,8 +1,8 @@
 {
 	"songs": [
 		[
-			"Mayhem",
-			"corruptmom",
+			"Distress",
+			"spooky-distress",
 			[
 				34,
 				51,
@@ -10,8 +10,8 @@
 			]
 		],
 		[
-			"Devitalization",
-			"corruptmom",
+			"Xenophobia",
+			"spooky-xeno",
 			[
 				34,
 				51,
@@ -19,8 +19,8 @@
 			]
 		],
 		[
-			"Devastation",
-			"corruptmomalt",
+			"Killer",
+			"spooky-killer",
 			[
 				34,
 				51,
@@ -29,15 +29,15 @@
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "halloween",
 	"difficulties": "",
 	"weekCharacters": [
-		"mom",
-		"",
-		"bf"
+		"spooky",
+		"pico",
+		"pico"
 	],
-	"storyName": "We've Found You...",
-	"weekName": "week4",
+	"storyName": "Good Times Must Come To An End.",
+	"weekName": "week3",
 	"freeplayColor": [
 		146,
 		113,

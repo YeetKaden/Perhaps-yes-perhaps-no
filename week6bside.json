@@ -11,39 +11,21 @@
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
-		"gf",
-		"bf"
+		"Dad",
+		"GF",
+		"BF"
 	],
 	"songs": [
 		[
-			"Bedeviled",
+			"Bside Bedeviled",
 			"dad-bed",
 			[
 				175,
 				0,
 				255
 			]
-		],
-		[
-			"Affliction",
-			"dad-af",
-			[
-				155,
-				0,
-				235
-			]
-		],
-		[
-			"Familiar Finale",
-			"dad-fakeout",
-			[
-				95,
-				0,
-				175
-			]
 		]
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekName": "week6"
 }
